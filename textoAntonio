@@ -1,0 +1,9 @@
+using pruebaAntonio;
+
+public GameObject aytha;
+private Transform aythaTransform;
+
+public void Start()
+{
+    aythaTransform = aytha.GetComponent<TransformDeVivir>();
+}

@@ -6,4 +6,6 @@ private Transform ythaTransform;
 public void Start()
 {
     ythaTransform = ytha.GetComponent<TransformDeVivir>();
+
+    madresantabenditajoder;
 }
